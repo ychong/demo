@@ -4,4 +4,4 @@ This is a simple readme file
 
 ## Heading 2
 
-This update is different than what has been done on branch
+Just some updates, on a branch
